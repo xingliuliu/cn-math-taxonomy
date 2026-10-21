@@ -439,3 +439,9 @@ python3 -m http.server 8000
 **商用授权：** 如需商业使用，请联系作者获取单独授权：X（Twitter）私信 [@hassanyehiaa](https://x.com/hassanyehiaa)，或在本仓库 [提交 Issue](https://github.com/xiaoyang111222/cn-math-taxonomy/issues) 说明用途。
 
 This project is licensed under CC BY-NC 4.0. For commercial licensing, please contact the author via X [@hassanyehiaa](https://x.com/hassanyehiaa) or open an issue.
+
+
+
+## 分享网页
+
+项目网页：[打开 GitHub Pages](https://xingliuliu.github.io/cn-math-taxonomy/)。部署说明见 [docs/deploy-github-pages.md](docs/deploy-github-pages.md)。
